@@ -1,0 +1,8 @@
+# Ignore everything
+*
+!.gitignore
+
+# But not these
+!thumbnails/
+!thumbnails/**
+!streams_gallery.html
